@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Solulab Assignment</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+    <string name="collection">Collection</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="collection_fragment">Collection Fragment</string>
+    <string name="scan_fragment">Scan Fragment</string>
+    <string name="wishlist_fragment">Wishlist Fragment</string>
+    <string name="my_dashboard">My DashBoard</string>
+    <string name="coin_name">Coin Name</string>
+
+    <string name="lorem_ipsum_dolor_sit_amet_consecutor">lorem ipsum dolor sit amet, consecutor</string>
+    <string name="sell">Sell</string>
+    <string name="see_all">See All</string>
+</resources>
